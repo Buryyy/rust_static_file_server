@@ -21,7 +21,7 @@ It leverages the Warp web framework for handling HTTP requests efficiently.
 
 2. **Clone the repository**:
    ```bash
-   git clone https://github.com/[YOUR_USERNAME]/rust_static_file_server.git
+   git clone https://github.com/Buryyy/rust_static_file_server.git
    cd rust_static_file_server
 
 3. Build the project:
